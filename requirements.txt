@@ -1,0 +1,2 @@
+mitmproxy==8.1.1
+winproxy==0.3.0a1
